@@ -1,0 +1,23 @@
+{
+  "name": "get-random-users",
+  "version": "1.0.0",
+  "description": "An npm package to get random users ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebMine207/get-random-users.git"
+  },
+  "keywords": [
+    "get-random-users"
+  ],
+  "author": "Mayank Prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebMine207/get-random-users/issues"
+  },
+  "homepage": "https://github.com/WebMine207/get-random-users#readme"
+}
